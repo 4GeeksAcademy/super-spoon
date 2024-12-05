@@ -1,4 +1,37 @@
+Body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eecbf7;
+    
+}
 
+.Container {
+    padding: 32px;
+    margin: 0 auto;
+    border: 5px solid;
+    border-color: black;
+    width: 666px;
+    background-color: #e284f9;
+    border-radius: 6px;
+    ;
+}
+ul {
+    list-style: none;
+}
+
+input {
+    background-color: white;
+    border-color: black;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
 /* 
 
     You can write your own styles here...
